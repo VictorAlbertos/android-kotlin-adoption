@@ -2,7 +2,7 @@
 This repository contains the implementation used for the post `Kotlin adoption on Android open source community` [published on Medium]().   
 
 ### Datasets
-[creations_scrapper](creations_scrapper.py) fetchs the number of Github repositories created every month from `2016-02-15` (Kotlin release date) to `2019-01-15`, creating four distinct categories:
+[creations_scrapper](creations_scrapper.py) fetchs the number of Github repositories created every month from `2016-02-15` (Kotlin 1.0 release date) to `2019-01-15`, creating four distinct categories:
 
 | Category | Scope | Main Language | Github Query |
 |----------------|---------------|---------------|----------------|
