@@ -1,0 +1,137 @@
+language,scope,created_at,count
+kotlin,android,2016-02-15,100
+java,android,2016-02-15,9321
+kotlin,NOT android,2016-02-15,407
+java,NOT android,2016-02-15,79142
+kotlin,android,2016-03-15,109
+java,android,2016-03-15,10178
+kotlin,NOT android,2016-03-15,379
+java,NOT android,2016-03-15,85594
+kotlin,android,2016-04-15,86
+java,android,2016-04-15,8834
+kotlin,NOT android,2016-04-15,325
+java,NOT android,2016-04-15,76853
+kotlin,android,2016-05-15,93
+java,android,2016-05-15,8098
+kotlin,NOT android,2016-05-15,381
+java,NOT android,2016-05-15,74172
+kotlin,android,2016-06-15,92
+java,android,2016-06-15,7933
+kotlin,NOT android,2016-06-15,363
+java,NOT android,2016-06-15,66880
+kotlin,android,2016-07-15,93
+java,android,2016-07-15,7517
+kotlin,NOT android,2016-07-15,380
+java,NOT android,2016-07-15,68984
+kotlin,android,2016-08-15,123
+java,android,2016-08-15,8554
+kotlin,NOT android,2016-08-15,454
+java,NOT android,2016-08-15,82957
+kotlin,android,2016-09-15,120
+java,android,2016-09-15,8903
+kotlin,NOT android,2016-09-15,456
+java,NOT android,2016-09-15,92735
+kotlin,android,2016-10-15,137
+java,android,2016-10-15,9368
+kotlin,NOT android,2016-10-15,540
+java,NOT android,2016-10-15,102591
+kotlin,android,2016-11-15,138
+java,android,2016-11-15,9170
+kotlin,NOT android,2016-11-15,611
+java,NOT android,2016-11-15,97366
+kotlin,android,2016-12-15,161
+java,android,2016-12-15,8198
+kotlin,NOT android,2016-12-15,556
+java,NOT android,2016-12-15,78711
+kotlin,android,2017-01-15,200
+java,android,2017-01-15,10058
+kotlin,NOT android,2017-01-15,677
+java,NOT android,2017-01-15,99874
+kotlin,android,2017-02-15,221
+java,android,2017-02-15,10519
+kotlin,NOT android,2017-02-15,678
+java,NOT android,2017-02-15,108238
+kotlin,android,2017-03-15,264
+java,android,2017-03-15,11747
+kotlin,NOT android,2017-03-15,899
+java,NOT android,2017-03-15,121509
+kotlin,android,2017-04-15,246
+java,android,2017-04-15,9930
+kotlin,NOT android,2017-04-15,856
+java,NOT android,2017-04-15,106522
+kotlin,android,2017-05-15,741
+java,android,2017-05-15,10898
+kotlin,NOT android,2017-05-15,2406
+java,NOT android,2017-05-15,111859
+kotlin,android,2017-06-15,601
+java,android,2017-06-15,9675
+kotlin,NOT android,2017-06-15,2036
+java,NOT android,2017-06-15,99718
+kotlin,android,2017-07-15,564
+java,android,2017-07-15,9900
+kotlin,NOT android,2017-07-15,2066
+java,NOT android,2017-07-15,100257
+kotlin,android,2017-08-15,698
+java,android,2017-08-15,10797
+kotlin,NOT android,2017-08-15,2318
+java,NOT android,2017-08-15,114574
+kotlin,android,2017-09-15,682
+java,android,2017-09-15,10884
+kotlin,NOT android,2017-09-15,2457
+java,NOT android,2017-09-15,124419
+kotlin,android,2017-10-15,955
+java,android,2017-10-15,11448
+kotlin,NOT android,2017-10-15,3233
+java,NOT android,2017-10-15,140800
+kotlin,android,2017-11-15,980
+java,android,2017-11-15,11158
+kotlin,NOT android,2017-11-15,3657
+java,NOT android,2017-11-15,132054
+kotlin,android,2017-12-15,1061
+java,android,2017-12-15,10462
+kotlin,NOT android,2017-12-15,3208
+java,NOT android,2017-12-15,108249
+kotlin,android,2018-01-15,1329
+java,android,2018-01-15,12762
+kotlin,NOT android,2018-01-15,4221
+java,NOT android,2018-01-15,136187
+kotlin,android,2018-02-15,1240
+java,android,2018-02-15,11415
+kotlin,NOT android,2018-02-15,4598
+java,NOT android,2018-02-15,130744
+kotlin,android,2018-03-15,1413
+java,android,2018-03-15,12554
+kotlin,NOT android,2018-03-15,5080
+java,NOT android,2018-03-15,154166
+kotlin,android,2018-04-15,1410
+java,android,2018-04-15,11408
+kotlin,NOT android,2018-04-15,4941
+java,NOT android,2018-04-15,145648
+kotlin,android,2018-05-15,1584
+java,android,2018-05-15,11493
+kotlin,NOT android,2018-05-15,5528
+java,NOT android,2018-05-15,147048
+kotlin,android,2018-06-15,1321
+java,android,2018-06-15,9914
+kotlin,NOT android,2018-06-15,5021
+java,NOT android,2018-06-15,124469
+kotlin,android,2018-07-15,1564
+java,android,2018-07-15,9618
+kotlin,NOT android,2018-07-15,5587
+java,NOT android,2018-07-15,134151
+kotlin,android,2018-08-15,1638
+java,android,2018-08-15,9730
+kotlin,NOT android,2018-08-15,5818
+java,NOT android,2018-08-15,147666
+kotlin,android,2018-09-15,1674
+java,android,2018-09-15,9811
+kotlin,NOT android,2018-09-15,6371
+java,NOT android,2018-09-15,164995
+kotlin,android,2018-10-15,1913
+java,android,2018-10-15,10221
+kotlin,NOT android,2018-10-15,7481
+java,NOT android,2018-10-15,180026
+kotlin,android,2018-11-15,1848
+java,android,2018-11-15,9755
+kotlin,NOT android,2018-11-15,7819
+java,NOT android,2018-11-15,171314
