@@ -1,5 +1,5 @@
 # Kotlin adoption on the Android open source community
-This repository contains the implementation used for the post `Kotlin adoption on Android open source community` [published on Medium]().   
+This repository contains the implementation used for the post `Kotlin adoption on Android open source community` [published on Medium](https://medium.com/@victoralbertos/kotlin-adoption-on-the-android-open-source-community-fe01d00a8bb3).   
 
 ### Datasets
 [creations_scrapper](creations_scrapper.py) fetchs the number of Github repositories created every month from `2016-02-15` (Kotlin 1.0 release date) to `2019-01-15`, creating four distinct categories:
