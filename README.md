@@ -15,11 +15,11 @@ Thus, Android repositories are those which contain the `android` word in their t
 
 [migrations_scrapper](creations_scrapper.py) fetchs those active Github Android repositories which have been and have not been migrated to Kotlin. 
 
-For getting the migrated repositories, it retrieves those Java repositories which were created before Kotlin was released and now their main language is Kotlin (I was not able to find what percentage it represents, I'd guess 50%?). The Github query used is: `android language:kotlin created:<2016-02-15 pushed:>2019-01-01`. 
+For getting the migrated repositories, it retrieves those Java repositories which were created before Kotlin 1.0 was released and now their main language is Kotlin (I was not able to find what percentage it represents, I'd guess 50%?). The Github query used is: `android language:kotlin created:<2016-02-15 pushed:>2019-01-01`. 
 
 In like manner, to get those which have not been (yet?) migrated, the script retrieves those Java repositories which were created before Kotlin was released and their main language is still Java. The Github query used is: `android language:java created:<2016-02-15 pushed:>2019-01-01`. 
 
-The main limitation of this approach is that all the Java repositories which were created after Kotlin was released and migrate to Kotlin after that point are ignored. 
+The main limitation of this approach is that all the Java repositories which were created after Kotlin was released and migrate to Kotlin after that point are ignored. And also that early native Kotlin repositories would be considered as migrations.
  
 ### Data analysis
 This clumsy study aims to evaluate the adoption of the Kotlin programming language on the Android open source community. To do so, it addresses several points by which descriptive and comparative analyses will put into perspective the question. Both [creations_DEA](creations_DEA.ipynb) and [migrations_DEA](migrations_DEA.ipynb) address these points: 
